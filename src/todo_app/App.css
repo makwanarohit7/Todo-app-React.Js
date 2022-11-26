@@ -1,0 +1,57 @@
+.main {
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+#todo {
+  background-color: rgba(91, 140, 148, 0.737);
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+}
+.indiv {
+  background-color: blueviolet;
+}
+.add {
+  background-color: rgb(255, 115, 0);
+  color: black;
+  border-radius: 8px;
+  border-color: black;
+  border-width: 3px;
+  margin-left: 10px;
+}
+.input {
+  margin-top: 40px;
+  border-color: black;
+  border-width: 3px;
+  background-color: rgb(76, 192, 223);
+  margin-bottom: 40px;
+}
+
+.li {
+  margin-top: 10px;
+  list-style: none;
+
+  margin-left: 0px;
+}
+.completeButton {
+  background-color: rgb(255, 115, 0);
+  color: black;
+  border-radius: 8px;
+  border-color: black;
+  border-width: 3px;
+  margin-right: 10px;
+}
+.removeButton {
+  background-color: rgb(255, 115, 0);
+  color: black;
+  border-radius: 8px;
+  border-color: black;
+  border-width: 3px;
+  margin-right: 10px;
+}
+.span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
